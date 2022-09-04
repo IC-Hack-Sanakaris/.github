@@ -2,10 +2,10 @@
 
   - Presentation [ICHacks (1).pptx](https://github.com/IC-Hack-Sanakaris/Presentation-and-Video/files/9484380/ICHacks.1.pptx)
 
-  - Website's demo  https://user-images.githubusercontent.com/83744021/188306598-e45abfaf-7bdf-4aa8-9097-7d0aab2201e0.mp4
+  - Website's demo :  https://user-images.githubusercontent.com/83744021/188306598-e45abfaf-7bdf-4aa8-9097-7d0aab2201e0.mp4
 
 
-  - App's demo   https://user-images.githubusercontent.com/83744021/188306170-cae7655c-a06f-4612-ac4a-5c4bc85ac6a9.mp4
+  - App's demo :    https://user-images.githubusercontent.com/83744021/188306170-cae7655c-a06f-4612-ac4a-5c4bc85ac6a9.mp4
 
 # Firebase model/schema screenshots
 <img width="109" alt="image" src="https://user-images.githubusercontent.com/83744021/188306919-45b5ee5d-ddd0-4524-ad15-1901ebca1aee.png">
